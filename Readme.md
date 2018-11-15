@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/KeepSelection/Form1.cs) (VB: [Form1.vb](./VB/KeepSelection/Form1.vb))
+* [KeepSelectionHelper.cs](./CS/KeepSelection/KeepSelectionHelper.cs) (VB: [KeepSelectionHelper.vb](./VB/KeepSelection/KeepSelectionHelper.vb))
+* [Program.cs](./CS/KeepSelection/Program.cs) (VB: [Program.vb](./VB/KeepSelection/Program.vb))
+<!-- default file list end -->
 # How to keep selection on click in GridControl
 
 
